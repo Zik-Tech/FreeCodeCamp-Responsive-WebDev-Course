@@ -1,7 +1,4 @@
 # Learn HTML by Building a Cat Photo App
-
-## Goal
-
 <hr>
 
 ### HTML Tags
